@@ -1,3 +1,4 @@
 streamlit
 datasets
 pymongo
+streamlit_sortables
